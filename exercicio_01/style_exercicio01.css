@@ -1,0 +1,33 @@
+ul{color: #ffc122;
+}
+
+h2{
+	font-family: serif;
+	font-size: 15pt;
+	color: #205d79;
+	text-align: left;
+	width: 400px;
+	columns: 2;
+	margin: auto;
+	position: bottom;
+}
+
+body{
+	background-color: #FAF8DA;
+	font-family: serif;
+	color: #205D76;
+	font-size: 35px;
+	text-align: center;
+}
+
+header{
+	width: 65%;
+	margin: auto;;
+}
+
+footer{
+	text-align: center;
+	font-family: serif;
+	font-size: 10px;
+	background-color: yellow;
+}
